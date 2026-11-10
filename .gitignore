@@ -1,0 +1,23 @@
+# 构建产物
+*.zip
+*.7z
+dist/
+build/
+payload/
+
+# 本地工具
+tools/
+
+# 崩溃转储与日志
+*.dmp
+*.log
+
+# 备份
+*.bak
+_backup*/
+_archive/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
